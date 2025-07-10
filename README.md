@@ -46,17 +46,6 @@ In today’s fast-paced world, seamless collaboration is essential. Kollab empow
 
 ---
 
-## 🏗️ Architecture Overview
-
-```mermaid
-graph TD;
-  A[User 1] -- edits --> D[Liveblocks Room]
-  B[User 2] -- edits --> D
-  D -- syncs --> E[Next.js App]
-  E -- stores --> F[Database (planned)]
-  E -- serves --> G[Client UI]
-```
-
 - **Liveblocks** manages real-time presence and document state.
 - **Next.js** serves the frontend and API routes.
 - **Database** (planned) for persistent storage and versioning.
