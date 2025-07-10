@@ -72,7 +72,7 @@ graph TD;
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/kollab.git
+git clone https://github.com/AaYuSh11233/Kollab.git
 cd kollab
 
 # Install dependencies
@@ -208,13 +208,3 @@ We welcome contributions! To get started:
 - Webhooks and API integrations
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-  <i>Made with ❤️ by the Kollab team and contributors.</i>
-</p>
