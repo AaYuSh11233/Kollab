@@ -1,6 +1,6 @@
 # Kollab
 
-![Kollab Banner](public/assets/images/logo.png)
+![Kollab Banner](public/assets/icons/logo.svg)
 
 ---
 
